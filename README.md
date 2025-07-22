@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Me llamo Genaro Rodríguez Nicolás</h1>
-<h3 align="center">Soy un desarrollador full-stack apresionado</h3>
+<h3 align="center">Soy un desarrollador full-stack apasionado</h3>
 
 - 🔭 Actualmente estoy trabajando en [eGas Industria](https://industria.egas.com.mx/)
 
